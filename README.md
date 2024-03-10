@@ -2,6 +2,8 @@
 
 Presented by [Harriet Mason](https://github.com/harriet-mason), PhD Candidate at Monash University.
 
+Link to event recording (coming!)
+
 Take a look at the [CassowaryR](https://numbats.github.io/cassowaryr/) R package
 
 About the [event](https://www.meetup.com/en-AU/rladies-melbourne/events/297062723/)
